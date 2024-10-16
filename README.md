@@ -17,8 +17,8 @@ The above is all coming from X Acadamy's official website: [X ACADEMY 2024 - Fut
 ## What I Have Done in the Program: Course Projects and Capstone
 ### Course Projects
 - **Word Frequency Analysis**: Processed a 16,949-line text file of The Republic using Python to analyze word frequency and extracted and wrote the 100 most frequent words along with their frequency to a file on the hard disk.
-- **HW2**: Utilized the Chunk method to process 6,602,141 tweets about Occupy Wall Street, calculating daily tweet counts and the number of unique users.
-- **HW3**: Using publicly available experimental result data, reproduced the analysis in Matthew J. Salganik's dissertation project "Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market", supervised by Duncan J. Watts.
+- **Millions of data processing with chunk method**: Utilized the Chunk method to process 6,602,141 tweets about Occupy Wall Street, calculating daily tweet counts and the number of unique users.
+- **Paper figure reproduction**: Using publicly available experimental result data, reproduced three figures from the paper - Salganik, M. J., Dodds, P. S., & Watts, D. J. (2006). Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market. Science
 
 ### Capstone
 - **Topic**: The impact of social participation on the mental health of the elderly - A study taking pension institutions as the participation platform.
