@@ -16,9 +16,11 @@ The above is all coming from X Acadamy's official website: [X ACADEMY 2024 - Fut
 
 ## What I Have Done in the Program: Course Projects and Capstone
 ### Course Projects
-- **Word Frequency Analysis**: Processed a 16,949-line text file of The Republic using Python to analyze word frequency and extracted and wrote the 100 most frequent words along with their frequency to a file on the hard disk.
-- **Millions of data processing with chunk method**: Utilized the Chunk method to process 6,602,141 tweets about Occupy Wall Street, calculating daily tweet counts and the number of unique users.
-- **Paper figure reproduction**: Using publicly available experimental result data, reproduced three figures from the paper - Salganik, M. J., Dodds, P. S., & Watts, D. J. (2006). Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market. Science
+- **Word frequency analysis**: Processed a 16,949-line text file of The Republic using Python to analyze word frequency and extracted and wrote the 100 most frequent words along with their frequency to a file on the hard disk.
+- **Bigdata processing with chunk method**: Utilized the Chunk method to process 6,602,141 tweets about Occupy Wall Street, calculating daily tweet counts and the number of unique users.
+- **Data visualization**: Using publicly available experimental result data, reproduced three figures from the paper - Salganik, M. J., Dodds, P. S., & Watts, D. J. (2006). Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market. Science
+- **Use Google search queries to predict influenza epidemics**:  I referred to Ginsberg, J., Mohebbi, M. H., Patel, R. S., Brammer, L., Smolinski, M. S., & Brilliant, L. (2009). Detecting influenza epidemics using search engine query data. Nature, 457(7232), 1012–1014. https://doi.org/10.1038/nature07634.
+- **Categorize news into trustworthy and untrustworthy categories**: I trained three machine learning models (naive bayes classifier based on polynomial distribution, random forest classifier, and feedforward neural network) and compared their accuracy. Finally, I selected the model with the highest accuracy to classify true and false news on unlabeled data.
 
 ### Capstone
 - **Topic**: The impact of social participation on the mental health of the elderly - A study taking pension institutions as the participation platform.
