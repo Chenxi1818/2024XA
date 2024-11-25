@@ -12,7 +12,7 @@ The above is all coming from X Acadamy's official website: [X ACADEMY 2024 - Fut
 
 2. **Machine Learning & Network Science**: Explore supervised, unsupervised, and reinforcement learning using Scikit-Learn. Analyze network structures and models with Network X, and their applications in health, security, and epidemic forecasting.
 
-3. **Word2vec and NLP Skills**: Master word embedding with Word2vec, train models with Gensim, and analyze text data. Understand sentiment analysis techniques and text mining practices using Python.
+3. **NLP**: Master word embedding with Word2vec, train models with Gensim, and analyze text data. Understand sentiment analysis techniques and text mining practices using Python.
 
 ## What I Have Done in the Program: Course Projects and Capstone
 ### Course Projects
